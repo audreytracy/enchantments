@@ -1,0 +1,4 @@
+selenium==4.9.0
+sendgrid
+dummylog
+python-dotenv
